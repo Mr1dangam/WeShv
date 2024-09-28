@@ -10,22 +10,22 @@ const Third = () => {
   return <div className="t">
       <div className="rec">Recent <br /> Cases</div>
       <div className="rec-1">
-          <h1 className="title-1">Volvo</h1>
-          <p className="des-1">Thought leadership through sustainable communication</p>
+          <h1 className="title-1">Volunteers Helping</h1>
+          <p className="des-1"> in the Places that needs the most Help.</p>
           <div className="sub-rec-1">
               <img src={C} alt=""  className="picdrop"/>
           </div>
       </div>
       <div className="rec-2">
-          <h1 className="title-1">Deemers Teehaus</h1>
-          <p className="des-1">Freshly brewed: Austria's largest online shop</p>
+          <h1 className="title-1">Our Approach at Connecting</h1>
+          <p className="des-1">An Interactive Website fit for all platforms.</p>
           <div className="sub-rec-1">
               <img src={D} alt=""  className="picdrop"/>
           </div>
       </div>
       <div className="rec-3">
-          <h1 className="title-1">Zurück zum Ursprung</h1>
-          <p className="des-1">A website relaunch that goes deeper</p>
+          <h1 className="title-1">Our Approach at Connecting</h1>
+          <p className="des-1">An Interactive Website fit for all platforms.</p>
           <div className="sub-rec-1">
               <img src={E} alt=""  className="picdrop"/>
           </div>
