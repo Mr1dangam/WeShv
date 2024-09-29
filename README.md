@@ -40,13 +40,13 @@ WeShv follows a very unique structure in order to solve the problem of the food 
 
 
 ### Video 1
-[![Watch Video](IMAGE_LINK_1)](https://drive.google.com/open?id=1p4s8RCxMvc6XGSQo6QO6ND5sczEAblbU)
+[![Watch Video](IMAGE_LINK_1)](https://drive.google.com/file/d/1RGggE4a3xUd5sycbtuzW9TaLPS0j5i0C/view?usp=sharing)
 
 ### Video 2
-[![Watch Video](IMAGE_LINK_2)](https://drive.google.com/open?id=1RGggE4a3xUd5sycbtuzW9TaLPS0j5i0C)
+[![Watch Video](IMAGE_LINK_2)](https://drive.google.com/file/d/1p4s8RCxMvc6XGSQo6QO6ND5sczEAblbU/view?usp=sharing)
 
 ### Video 3
-[![Watch Video](IMAGE_LINK_3)](https://drive.google.com/open?id=1-Oe_7Wk9_WzYPKUVVizus5HO_3mU1zcb)
+[![Watch Video](IMAGE_LINK_3)](https://drive.google.com/file/d/1-Oe_7Wk9_WzYPKUVVizus5HO_3mU1zcb/view?usp=drive_link)
 
 
 Team Howler  
