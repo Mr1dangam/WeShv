@@ -10,7 +10,7 @@ const Home = () => {
         <div className="h-main">
         <div className="logo">WeShv</div>
        <nav className="nav-links">
-          <a href="#" class="Button">Previous Events</a>
+          <a href="https://yashdhirajoza.github.io/newmap/" class="Button">Map</a>
           <a href="https://community-page-we-shv.vercel.app/" class="Button">Community Page</a>
           <a href="#" class="Button">People</a>
           <a href="#" class="Button">Volunteers</a>
