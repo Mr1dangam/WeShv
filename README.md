@@ -9,31 +9,36 @@ WeShv follows a very unique structure in order to solve the problem of the food 
 ---
 
 ![Image 1](https://imgur.com/wywGinH))  
-Image description for Image 1
 
 ---
 
-![Image 2](https://your-image-link.com)  
-Image description for Image 2
+![Image 2]((https://imgur.com/n49okk2))  
 
 ---
 
-![Image 3](https://your-image-link.com)  
-Image description for Image 3
+![Image 3]((https://imgur.com/GbSyhd7))  
 
 ---
 
-![Image 4](https://your-image-link.com)  
-Image description for Image 4
+![Image 4](https://imgur.com/EpUJdJt)  
 
 ---
 
-![Image 5](https://your-image-link.com)  
-Image description for Image 5
+![Image 5](https://imgur.com/4P9D9XS)  
 
 ---
+
+![Image 6](https://imgur.com/S2qG2UE)  
+
+---
+
+![Image 7](https://imgur.com/wywGinH)  
+
+---
+
 
 Team Howler  
+
 Yash Oza  
 Mrudang Rana  
 Rudra Patel  
