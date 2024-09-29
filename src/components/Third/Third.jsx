@@ -24,15 +24,15 @@ const Third = () => {
           </div>
       </div>
       <div className="rec-3">
-          <h1 className="title-1">Our Approach at Connecting</h1>
-          <p className="des-1">An Interactive Website fit for all platforms.</p>
+          <h1 className="title-1">Our Working Model</h1>
+          <p className="des-1">This is the idea our whole working model.</p>
           <div className="sub-rec-1">
               <img src={E} alt=""  className="picdrop"/>
           </div>
       </div>
       <div className="rec-4">
-          <h1 className="title-1">Rainer Schönfelder</h1>
-          <p className="des-1">A website relaunch that goes deeper</p>
+          <h1 className="title-1">Our Community Page</h1>
+          <p className="des-1">A site that bridges the gap between the donors and to the people in need...</p>
           <div className="sub-rec-1">
               <img src={F} alt=""  className="picdrop"/>
           </div>
