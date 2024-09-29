@@ -9,11 +9,11 @@ const Home = () => {
   return <div className="h">
         <div className="h-main">
         <div className="logo">WeShv</div>
-        <nav className="nav-links">
-          <a href="#" class="Button">Cases</a>
-          <a href="#" class="Button">Blog</a>
+       <nav className="nav-links">
+          <a href="#" class="Button">Previous Events</a>
+          <a href="https://community-page-we-shv.vercel.app/" class="Button">Community Page</a>
           <a href="#" class="Button">People</a>
-          <a href="#" class="Button">Jobs</a>
+          <a href="#" class="Button">Volunteers</a>
           <a href="#" class="Button">Contact</a>
         </nav>
         <nav className="langu">
