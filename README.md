@@ -36,6 +36,7 @@ WeShv follows a very unique structure in order to solve the problem of the food 
 
 ---
 ![Alt Text](https://github.com/YashDhirajOza/WESHV/blob/main/WhatsApp%20Image%202024-09-29%20at%2016.41.59_0c3eb2a8.jpg) 
+![Alt Text](https://github.com/YashDhirajOza/WESHV/blob/main/WhatsApp%20Image%202024-09-29%20at%2016.42.00_ddd1f3b8.jpg) 
 
 Team Howler  
 
