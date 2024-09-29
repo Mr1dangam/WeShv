@@ -8,11 +8,7 @@ WeShv follows a very unique structure in order to solve the problem of the food 
 
 ---
 
-![Alt Text](https://github.com/YashDhirajOza/WESHV/blob/main/WhatsApp%20Image%202024-09-29%20at%2016.33.02_0c28bfde.jpg) 
-
----
-
-![Alt Text]https://github.com/YashDhirajOza/WESHV/blob/main/WhatsApp%20Image%202024-09-29%20at%2016.33.02_0c28bfde.jpg)
+![Alt Text](https://github.com/YashDhirajOza/WESHV/blob/main/WhatsApp%20Image%202024-09-29%20at%2016.33.20_3e2a8ed6.jpg) 
 
 ---
 
@@ -20,7 +16,11 @@ WeShv follows a very unique structure in order to solve the problem of the food 
 
 ---
 
-![Alt Text](https://github.com/YashDhirajOza/WESHV/blob/main/WhatsApp%20Image%202024-09-29%20at%2016.32.41_1aa9d069.jpg)  
+![Alt Text](https://github.com/YashDhirajOza/WESHV/blob/main/WhatsApp%20Image%202024-09-29%20at%2016.42.00_09be11dc.jpg)
+
+---
+
+![Alt Text](https://github.com/YashDhirajOza/WESHV/blob/main/WhatsApp%20Image%202024-09-29%20at%2016.42.00_eeda6e3d.jpg)  
 
 ---
 
@@ -28,14 +28,14 @@ WeShv follows a very unique structure in order to solve the problem of the food 
 
 ---
 
-![Alt Text](https://github.com/YashDhirajOza/WESHV/blob/main/WhatsApp%20Image%202024-09-29%20at%2016.42.00_eeda6e3d.jpg)
+![Alt Text](https://github.com/YashDhirajOza/WESHV/blob/main/WhatsApp%20Image%202024-09-29%20at%2016.33.02_0c28bfde.jpg)
 
 ---
 
 ![Alt Text](https://github.com/YashDhirajOza/WESHV/blob/main/WhatsApp%20Image%202024-09-29%20at%2016.42.00_09be11dc.jpg) 
 
 ---
-![Alt Text](https://github.com/YashDhirajOza/WESHV/blob/main/WhatsApp%20Image%202024-09-29%20at%2016.41.59_26122bb7.jpg) 
+![Alt Text](https://github.com/YashDhirajOza/WESHV/blob/main/WhatsApp%20Image%202024-09-29%20at%2016.41.59_0c3eb2a8.jpg) 
 
 Team Howler  
 
