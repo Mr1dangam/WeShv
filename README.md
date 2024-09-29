@@ -20,7 +20,7 @@ WeShv follows a very unique structure in order to solve the problem of the food 
 
 ---
 
-![Alt Text](https://github.com/YashDhirajOza/WESHV/blob/main/WhatsApp%20Image%202024-09-29%20at%2016.42.00_eeda6e3d.jpg)  
+![Alt Text](https://github.com/YashDhirajOza/WESHV/blob/main/WhatsApp%20Image%202024-09-29%20at%2016.32.41_1aa9d069.jpg)  
 
 ---
 
