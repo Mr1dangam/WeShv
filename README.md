@@ -39,10 +39,14 @@ WeShv follows a very unique structure in order to solve the problem of the food 
 ![Alt Text](https://github.com/YashDhirajOza/WESHV/blob/main/WhatsApp%20Image%202024-09-29%20at%2016.42.00_ddd1f3b8.jpg) 
 
 
-*Google Drive Videos of Our Website*
-https://drive.google.com/open?id=1p4s8RCxMvc6XGSQo6QO6ND5sczEAblbU&usp=drive_copy
-https://drive.google.com/open?id=1RGggE4a3xUd5sycbtuzW9TaLPS0j5i0C&usp=drive_copy
-https://drive.google.com/open?id=1-Oe_7Wk9_WzYPKUVVizus5HO_3mU1zcb&usp=drive_copy
+### Video 1
+[![Watch Video](IMAGE_LINK_1)](https://drive.google.com/open?id=1p4s8RCxMvc6XGSQo6QO6ND5sczEAblbU)
+
+### Video 2
+[![Watch Video](IMAGE_LINK_2)](https://drive.google.com/open?id=1RGggE4a3xUd5sycbtuzW9TaLPS0j5i0C)
+
+### Video 3
+[![Watch Video](IMAGE_LINK_3)](https://drive.google.com/open?id=1-Oe_7Wk9_WzYPKUVVizus5HO_3mU1zcb)
 
 
 Team Howler  
